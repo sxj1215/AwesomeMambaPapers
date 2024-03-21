@@ -5,6 +5,8 @@
 
 (Arxiv 24.01.18) VMamba: Visual State Space Model [Paper](https://arxiv.org/abs/2401.10166) [Code](https://github.com/MzeroMiko/VMamba)
 
+(Arxiv 24.02.08) Scalable Diffusion Models with State Space Backbone （DiS） [Paper]((https://arxiv.org/abs/2402.05608)) [Code](https://github.com/feizc/DiS)
+
 (Arxiv 24.02.09) FD-Vision Mamba for Endoscopic Exposure Correction [Paper](https://arxiv.org/abs/2402.06378) [Code]
 
 (Arxiv 24.02.19) Pan-Mamba: Effective pan-sharpening with State Space Model [Paper](https://arxiv.org/abs/2402.12192) [Code](https://github.com/alexhe101/Pan-Mamba)
@@ -26,3 +28,7 @@
 (Arxiv 24.03.14) LocalMamba: Visual State Space Model with Windowed Selective Scan [Paper](https://arxiv.org/abs/2403.09338) [Code](https://github.com/hunto/LocalMamba)
 
 (Arxiv 24.03.18)VmambaIR: Visual State Space Model for Image Restoration [Paper](https://arxiv.org/abs/2403.11423) [Code]
+
+(Arxiv 24.03.21)ZigMa: Zigzag Mamba Diffusion Model [Paper](https://arxiv.org/abs/2403.13802) [Code](https://taohu.me/zigma/)
+
+(Arxiv 24.03.21)VL-Mamba: Exploring State Space Models for Multimodal Learning [Paper](https://arxiv.org/abs/2403.13600) [Code]
