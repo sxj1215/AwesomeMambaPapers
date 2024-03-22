@@ -17,8 +17,6 @@
 
 (Arxiv 24.02.24) Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning [Paper](https://arxiv.org/abs/2402.15761) [Code](https://github.com/ChiShengChen/ResVMamba)
 
-(Arxiv 24.02.26) DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models [Paper](https://arxiv.org/abs/2403.00818) [Code](https://github.com/WailordHe/DenseSSM)
-
 (Arxiv 24.03.08) VideoMamba: State Space Model for Efficient Video Understanding [Paper](https://arxiv.org/abs/2403.06977) [Code](https://github.com/OpenGVLab/VideoMamba)
 
 (Arxiv 24.03.08) MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models [Paper](https://arxiv.org/abs/2403.05160) [Code]
@@ -32,3 +30,5 @@
 (Arxiv 24.03.21)ZigMa: Zigzag Mamba Diffusion Model [Paper](https://arxiv.org/abs/2403.13802) [Code](https://taohu.me/zigma/)
 
 (Arxiv 24.03.21)VL-Mamba: Exploring State Space Models for Multimodal Learning [Paper](https://arxiv.org/abs/2403.13600) [Code]
+
+(Arxiv 24.03.22) Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference [Paper](https://arxiv.org/abs/2403.14520) [Code](https://sites.google.com/view/cobravlm)
