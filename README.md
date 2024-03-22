@@ -5,7 +5,7 @@
 
 (Arxiv 24.01.18) VMamba: Visual State Space Model [Paper](https://arxiv.org/abs/2401.10166) [Code](https://github.com/MzeroMiko/VMamba)
 
-(Arxiv 24.02.08) Scalable Diffusion Models with State Space Backbone （DiS） [Paper]((https://arxiv.org/abs/2402.05608)) [Code](https://github.com/feizc/DiS)
+(Arxiv 24.02.08) Scalable Diffusion Models with State Space Backbone （DiS） [Paper](https://arxiv.org/abs/2402.05608)  [Code](https://github.com/feizc/DiS)
 
 (Arxiv 24.02.09) FD-Vision Mamba for Endoscopic Exposure Correction [Paper](https://arxiv.org/abs/2402.06378) [Code]
 
