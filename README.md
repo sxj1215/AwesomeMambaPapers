@@ -52,3 +52,5 @@
 (Arxiv 24.03.26) Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion [Paper](https://arxiv.org/abs/2403.17432) [Code]
 
 (Arxiv 24.03.27) ReMamber: Referring Image Segmentation with Mamba Twister [Paper](https://arxiv.org/abs/2403.17839) [Code]
+
+(Arxiv 24.04.01) UltraLight VM-UNet: Parallel Vision Mamba Significantly Reduces Parameters for Skin Lesion Segmentation [Paper](https://arxiv.org/abs/2403.20035) [Code](https://github.com/wurenkai/UltraLight-VM-UNet)
