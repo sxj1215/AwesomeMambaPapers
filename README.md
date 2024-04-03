@@ -54,3 +54,6 @@
 (Arxiv 24.03.27) ReMamber: Referring Image Segmentation with Mamba Twister [Paper](https://arxiv.org/abs/2403.17839) [Code]
 
 (Arxiv 24.04.01) UltraLight VM-UNet: Parallel Vision Mamba Significantly Reduces Parameters for Skin Lesion Segmentation [Paper](https://arxiv.org/abs/2403.20035) [Code](https://github.com/wurenkai/UltraLight-VM-UNet)
+
+(Arxiv 24.04.03) Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model [Paper](https://arxiv.org/abs/2404.01705) [Code
+](https://github.com/zhuqinfeng1999/Samba)
