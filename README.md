@@ -59,3 +59,5 @@
 ](https://github.com/zhuqinfeng1999/Samba)
 
 (Arxiv 24.04.04) ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model [Paper](https://arxiv.org/abs/2404.03425) [Code](https://github.com/ChenHongruixuan/MambaCD)
+
+(Arxiv 24.04.08) Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation [Paper](https://arxiv.org/abs/2404.04256) [Code](https://github.com/zifuwan/Sigma)
